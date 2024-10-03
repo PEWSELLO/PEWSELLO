@@ -9,4 +9,6 @@
 
 #### 🌊 - I'm a beginner programmer.
 
-#### 🦢 - I'm interessed in learning how to make a website.
+#### 🦢 - I'm interessed in learning how to code, make a website visually appealing and much more.
+
+#### 🪷 - I look foward to using GitHub to it's fullest!
